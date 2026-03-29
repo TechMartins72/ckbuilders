@@ -24,6 +24,7 @@
     - The roles and conecpt of the node: which validate transactions and exposes the RPC
     - The roles and conecpt of the miner - which generated a blocks and validate transaction performed using a 'dummy worker'
   - The RPC connection flow on offckb:
+
   ```
   Dapp  →  Proxy (28114)  →  CKB Node (8114)
                                         ↑
