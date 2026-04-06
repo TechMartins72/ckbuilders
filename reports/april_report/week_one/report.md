@@ -13,11 +13,11 @@
 
 ## Pratical Progress
 
-- Built a mini guessing app on Rust [link](../../../exercise/guessing_game)
-- Started to build a mini note-encrypter using CCC with javascript [link](../../../exercise/ckb-note/)
+- Built a mini guessing app on Rust [link](../../../exercise/guessing_game) [Repo](https://github.com/TechMartins72/rust-guessing-app)
+- Started to build a mini note-encrypter using CCC with javascript [link](../../../exercise/ [Repo]https://github.com/TechMartins72/ckb-note)
 
 ## Aim for week 3
 
 - Complete the mini note-encrypter - adding other functionalities
 - Complete three (3) more modules on Rust playbook
-- Solve rustlings and build a medium app with rustd
+- Solve rustlings and build a medium app with rust
