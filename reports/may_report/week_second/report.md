@@ -32,7 +32,7 @@ My knowledge spans accross understanding:
 - Understood how the indexer - which keeps record of live cells - functions differently from the node - which keeps record of both live and dead cells.
 - Understood how scripts are build
 
-Useful links
+## Useful links
 
-- [Screenshots]("./images")
+- [Screenshots]("images")
 - [Exercices](https://github.com/TechMartins72/ckb-tutorials)
