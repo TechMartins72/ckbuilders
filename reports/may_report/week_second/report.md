@@ -34,5 +34,5 @@ My knowledge spans accross understanding:
 
 ## Useful links
 
-- [Screenshots]("images")
+- [Screenshots](images)
 - [Exercices](https://github.com/TechMartins72/ckb-tutorials)
