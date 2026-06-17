@@ -1,28 +1,26 @@
 # Builder Track Weekly Report — May Week 4
 
-| Field           | Details        |
-| --------------- | -------------- |
-| **Name**        | Joseph Martins |
-| **Week Ending** | June 13th, 2026   |
+| Field           | Details         |
+| --------------- | --------------- |
+| **Name**        | Joseph Martins  |
+| **Week Ending** | June 13th, 2026 |
 
 ## Key Learning
 
-- Best Code Architecture - referencing iCKB code structure
-- Advance Rust - Studying other codes: iCKB
-- How to write Schema (*.mol) files
-- Dapp Deployment onchain
+- Advance Rust concepts
+- Advance CKB concepts
+
+## CURRENT BUILD
+
+- CKB-STORAGE Marketplace
+  The protocol allows users to rent cell-based storage from providers, with deal terms enforced on-chain via CKB scripts, payment streamed per epoch, and storage integrity guaranteed by cryptographic proof-of-possession challenges verified on-chain.
 
 ## Practical Progress
 
-- Built an On-Chain Counter - type script
-- Created an ACP - Anyone Can Pay - lockscript using CCC
-- Fixed the consume error on week 3 report
-- Built a mock transaction for debugging
-- Debug the typescript - happy paths and Error path tested
+- Build two lock scripts: collateral-lock, escrow-lock
+- Build two type scripts: proof-verifier, deal-lockgi
 
 ## Useful links
 
-- [Screenshots](images)
-- [Counter Type Script](https://github.com/TechMartins72/ckb-tutorials/tree/main/lock-scripts/contracts/counter-type-script)
-- [MOCK TRANSACTION](https://github.com/TechMartins72/ckb-tutorials/blob/main/lock-scripts/contracts/counter-type-script/mock_tx.json)
-- [ACP](https://github.com/TechMartins72/ckb-tutorials/tree/main/omnilock)
+- [CKB Marketplace](https://github.com/TechMartins72/ckb-storage-marketplace)
+- [Dapp Build Guide](https://docs.google.com/document/d/1F7ODYChkDCwNC-broYaOd9hBvjGlKV7-i1WSYuxJqEw/edit?usp=sharing)

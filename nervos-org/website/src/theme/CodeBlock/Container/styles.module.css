@@ -1,7 +1,0 @@
-@import "@css/customVariables.css";
-
-.codeBlockContainer {
-  color: var(--prism-color);
-  margin-bottom: var(--ifm-leading);
-  border-radius: 8px;
-}

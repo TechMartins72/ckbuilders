@@ -5,21 +5,7 @@
 | **Name**        | Joseph Martins |
 | **Week Ending** | May 30, 2026   |
 
-## Key Learning
-
-- How to build a mock transaction
-- How to use ckb-debugger for testing
-- How to build custom typescript
-- Understood the theory behind
-- Understood how Omnilock script works
-
-## Practical Progress
-
-- Built an On-Chain Counter - type script
-- Created an ACP - Anyone Can Pay - lockscript using CCC
-- Fixed the consume error on week 3 report
-- Built a mock transaction for debugging
-- Debug the typescript - happy paths and Error path tested
+## What I am build
 
 ## Useful links
 
