@@ -51,7 +51,7 @@ The homepage and provider-selection step in the upload wizard now load providers
 
 ---
 
-## Next Steps
+## Next Stepsww
 
 1. **`submitProof`** — provider submits a Merkle inclusion proof on-chain; proof-verifier validates it and `last_proof_epoch` advances.
 2. **`closeDeal`** — either party closes a completed deal and reclaims the 234 CKB deal cell deposit.
